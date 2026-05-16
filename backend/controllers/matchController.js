@@ -46,6 +46,8 @@ const aiShortlist = async (req, res) => {
     try {
         const job = req.body;
 
+
+
         const candidates = await Candidate.find();
 
         const aiResponse = await getAIShortlist(

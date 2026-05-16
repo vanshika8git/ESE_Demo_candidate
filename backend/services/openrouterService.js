@@ -28,10 +28,11 @@ Candidates:
 ${formattedCandidates}
 
 Tasks:
-1. Rank candidates from best to worst
-2. Explain why each candidate fits the role
-3. Mention strengths and weaknesses
-4. Recommend top candidates
+1. Rank candidates from best to worst.
+2. Provide a BRIEF (max 2 sentences) explanation for each.
+3. List top 3 recommendations in one or two lines.
+
+Be concise and direct.
 `;
 
     try {
